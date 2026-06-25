@@ -1,0 +1,31 @@
+<svg width="680" height="680" viewBox="0 0 680 680" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Brújula del Ingresante UNPILAR</title>
+  <desc>Ícono de brújula con rosa de los vientos y aguja Norte-Sur</desc>
+  <circle cx="340" cy="340" r="260" fill="#0E2A4E"/>
+  <circle cx="340" cy="340" r="240" fill="none" stroke="#C7891F" stroke-width="3"/>
+  <circle cx="340" cy="340" r="232" fill="none" stroke="#1858A0" stroke-width="1" stroke-dasharray="6 6"/>
+  <g opacity="0.18">
+    <line x1="340" y1="108" x2="340" y2="572" stroke="#C7891F" stroke-width="1"/>
+    <line x1="108" y1="340" x2="572" y2="340" stroke="#C7891F" stroke-width="1"/>
+    <line x1="176" y1="176" x2="504" y2="504" stroke="#C7891F" stroke-width="1"/>
+    <line x1="504" y1="176" x2="176" y2="504" stroke="#C7891F" stroke-width="1"/>
+  </g>
+  <g fill="rgba(199,137,31,0.22)">
+    <polygon points="340,120 352,210 340,200 328,210"/>
+    <polygon points="340,560 352,470 340,480 328,470"/>
+    <polygon points="120,340 210,352 200,340 210,328"/>
+    <polygon points="560,340 470,352 480,340 470,328"/>
+    <polygon points="192,192 250,258 240,248 256,240"/>
+    <polygon points="488,488 430,422 440,432 424,440"/>
+    <polygon points="488,192 422,250 432,240 440,256"/>
+    <polygon points="192,488 258,430 248,440 240,424"/>
+  </g>
+  <polygon points="340,140 354,330 340,320 326,330" fill="#ffffff"/>
+  <polygon points="340,540 354,350 340,360 326,350" fill="#C7891F"/>
+  <circle cx="340" cy="340" r="28" fill="#0E2A4E" stroke="#C7891F" stroke-width="3"/>
+  <circle cx="340" cy="340" r="10" fill="#C7891F"/>
+  <text x="340" y="108" text-anchor="middle" font-family="'Space Grotesk',sans-serif" font-size="26" font-weight="700" fill="#ffffff" letter-spacing="0.1em">N</text>
+  <text x="340" y="590" text-anchor="middle" font-family="'Space Grotesk',sans-serif" font-size="22" font-weight="600" fill="#C7891F" letter-spacing="0.05em">S</text>
+  <text x="96" y="348" text-anchor="middle" font-family="'Space Grotesk',sans-serif" font-size="22" font-weight="600" fill="#C7891F" letter-spacing="0.05em">O</text>
+  <text x="584" y="348" text-anchor="middle" font-family="'Space Grotesk',sans-serif" font-size="22" font-weight="600" fill="#C7891F" letter-spacing="0.05em">E</text>
+</svg>
